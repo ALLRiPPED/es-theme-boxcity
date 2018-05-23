@@ -64,7 +64,7 @@ version         1.0 23 May 2018
          <zIndex>39</zIndex>       
          <pos>0.7 0.2</pos>
          <size>0.279 0.79</size>
-         <fontSize>0.035</fontSize>  
+         <fontSize>0.028</fontSize>  
          <selectorColor>00000000</selectorColor>
          <selectedColor>EFF700</selectedColor>
          <primaryColor>ffffff</primaryColor>
@@ -73,7 +73,7 @@ version         1.0 23 May 2018
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
          <alignment>center</alignment>
-	     <lineSpacing>1.2</lineSpacing>        
+	     <lineSpacing>1.02</lineSpacing>        
       </textlist>
    </view>
 
@@ -94,7 +94,7 @@ version         1.0 23 May 2018
          <zIndex>39</zIndex>       
          <pos>0.021 0.02</pos>
          <size>0.209 0.949</size>
-         <fontSize>0.036</fontSize>      
+         <fontSize>0.028</fontSize>      
          <alignment>center</alignment>
       </textlist>
    </view>
@@ -172,7 +172,7 @@ version         1.0 23 May 2018
          <zIndex>39</zIndex>       
          <pos>0.021 0.02</pos>
          <size>0.209 0.949</size>
-         <fontSize>0.036</fontSize>      
+         <fontSize>0.028</fontSize>      
          <alignment>center</alignment>
       </textlist>
    </view>
